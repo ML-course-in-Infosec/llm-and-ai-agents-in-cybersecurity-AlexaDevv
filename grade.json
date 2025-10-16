@@ -1,0 +1,15 @@
+{
+  "tp": 7356,
+  "fp": 0,
+  "fn": 384,
+  "precision": 1.0,
+  "recall": 0.9504,
+  "f1": 0.9746,
+  "avg_tactic_accuracy": 0.9074,
+  "avg_technique_accuracy": 0.9074,
+  "avg_importance_accuracy": 0.9074,
+  "avg_f1_en": 0.9973,
+  "avg_f1_ru": 0.9968,
+  "total_files_en": 49,
+  "total_files_ru": 49
+}
